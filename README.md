@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 I am a Laravel developer working on Web Development for more than 2 Year.
 - 💡 I like to explore new technologies, develop software solutions and love to work on NodeJs and ReactJS development.
-- 🎓 I've a Master Degree in Computer Science from Punjab University Lahore.
+- 🎓 I've a Master Degree in Computer Science from Institute of Southern Punjab.
 - 🌱 I'm on track to become a Full Stack Developer. Currently learning Full Stack Development.
 - ✍🏻 In my free time, I read about what's new in market and watch Football and Cricket.
 - 💬 Feel free to reach out to me for any type of Web Development work.
