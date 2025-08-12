@@ -1,8 +1,8 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hi, I am *Ali Hamza* ...
 
-- 👨🏻‍💻 I am a Laravel developer working on Web Development for more than 2 Year.
+- 👨🏻‍💻 I am a Full Stack developer working on Web Development for more than 1 Year.
 - 💡 I like to explore new technologies, develop software solutions and love to work on NodeJs and ReactJS development.
-- 🎓 I've a Master Degree in Computer Science from Institute of Southern Punjab.
+- 🎓 I've a Master Degree in Computer Science from Institute of Southern Punjab Multan.
 - 🌱 I'm on track to become a Full Stack Developer. Currently learning Full Stack Development.
 - ✍🏻 In my free time, I read about what's new in market and watch Football and Cricket.
 - 💬 Feel free to reach out to me for any type of Web Development work.
@@ -75,7 +75,7 @@ Here are a few things I've picked up along my learning journey.
 
 ## Ali Hamza Github Stats
 <span> ![Ali's github stats](https://github-readme-stats.vercel.app/api?username=Iam-Ali Hamza&theme=tokyonight&show_icons=true&count_private=true) </span>
-<span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-Shoaib&theme=tokyonight)</span>
+<span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-Ali&theme=tokyonight)</span>
 
 
 ## 📫 Get in touch
@@ -83,6 +83,6 @@ Here are a few things I've picked up along my learning journey.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhamza386@gmail.com) ||
 [![whatsApp](https://camo.githubusercontent.com/7bd751781e6f998e2fa3460d679bdddaa84d355b18418dca1dfa5ef317adc5dc/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d576861747341707026636f6c6f723d323232323232266c6f676f3d5768617473417070266c6f676f436f6c6f723d323544333636266c6162656c3d)]( https://wa.me/923059123496)
 
- or give some ♥ on [mail](mailto:m.shoaib.fiaz.47@gmail.com) .
+ or give some ♥ on [mail](mailto:akhamza386@gmail.com) .
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=hassaantahir/hassaantahir) -->
