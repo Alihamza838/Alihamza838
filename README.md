@@ -6,7 +6,7 @@
 - 🌱 I'm on track to become a Full Stack Developer. Currently learning Full Stack Development.
 - ✍🏻 In my free time, I read about what's new in market and watch Football and Cricket.
 - 💬 Feel free to reach out to me for any type of Web Development work.
-- 📨 You can shoot me an email at m.shoaib.fiaz.47@gmail.com! I'll try to respond as soon as I can.
+- 📨 You can shoot me an email at akhamza386@gmail.com! I'll try to respond as soon as I can.
 
 ## ⚡ Tech Stack
 
