@@ -7,6 +7,7 @@
 - ✍🏻 In my free time, I read about what's new in market and watch Football and Cricket.
 - 💬 Feel free to reach out to me for any type of Web Development work.
 - 📨 You can shoot me an email at akhamza386@gmail.com! I'll try to respond as soon as I can.
+- Experienced MERN Stack Developer with a strong front-end focus, specializing in React (TypeScript), Tailwind CSS, and Capacitor.js for building modern, responsive, and cross-platform applications. Proven ability to architect and develop high-performance web and mobile solutions with clean, scalable code. Adept at integrating robust back-end APIs with intuitive front-end interfaces, ensuring seamless user experiences across devices. Passionate about performance optimization, design consistency, and delivering pixel-perfect interfaces that align with business goals. Skilled in collaborating within agile teams, solving complex problems, and shipping production-ready features efficiently.
 
 ## ⚡ Tech Stack
 
