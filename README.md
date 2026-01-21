@@ -1,6 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hi, I am *Ali Hamza* ...
 
-- 👨🏻‍💻 I am a Full Stack developer working on Web Development for more than 1 Year.
+- 👨🏻‍💻 I am a Full Stack developer working on Web Development for more than 2 Year.
+- 👨🏻‍💻 I am also a Backend developer working on Development of deno/oak and deno/Epic-Oridune for more than 1 Year.
 - 💡 I like to explore new technologies, develop software solutions and love to work on NodeJs and ReactJS development.
 - 🎓 I've a Master Degree in Computer Science from Institute of Southern Punjab Multan.
 - 🌱 I'm on track to become a Full Stack Developer. Currently learning Full Stack Development.
