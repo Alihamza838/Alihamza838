@@ -46,10 +46,12 @@ Here are a few things I've picked up along my learning journey.
 
 
 
+## 📊 Ali Hamza GitHub Stats
 
-## Ali Hamza Github Stats
-<span> ![Ali's github stats](https://github-readme-stats.vercel.app/api?username=Iam-AliHamza&theme=tokyonight&show_icons=true&count_private=true) </span> </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-AliHamza&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Iam-AliHamza&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-AliHamza&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
 
 
