@@ -22,9 +22,9 @@ Here are a few things I've picked up along my learning journey.
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![]() ![]()
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 
-![elememtor](https://camo.githubusercontent.com/07a0d7e25097e9c2a5977fb5c0f438f21ed5109fc34014b1aa2688715a47e377/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d456c656d656e746f7226636f6c6f723d393230303342266c6f676f3d456c656d656e746f72266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![woocommerce](https://camo.githubusercontent.com/d4d3ecf7354533507e2a0a3e411ccc1666d43dd8987255820e49773e9189e5ec/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d576f6f436f6d6d6572636526636f6c6f723d393635383841266c6f676f3d576f6f436f6d6d65726365266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
