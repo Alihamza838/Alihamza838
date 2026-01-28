@@ -46,7 +46,7 @@ Here are a few things I've picked up along my learning journey.
 
 
 ## Ali Hamza Github Stats
-<span> ![Ali's github stats](https://github-readme-stats.vercel.app/api?username=Iam-Ali Hamza&theme=tokyonight&show_icons=true&count_private=true) </span>
+<span> ![Ali's github stats](https://github-readme-stats.vercel.app/api?username=Iam-Ali Hamza&theme=tokyonight&show_icons=true&count_private=true) </span> </br>
 <span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-Ali&theme=tokyonight)</span>
 
 
