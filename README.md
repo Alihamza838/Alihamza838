@@ -19,7 +19,7 @@ Here are a few things I've picked up along my learning journey.
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![]() ![]()
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
@@ -28,7 +28,6 @@ Here are a few things I've picked up along my learning journey.
 
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![phpmyadmin](https://camo.githubusercontent.com/2533330290857b9366d23cb454fd5539d14e8cb720388e7d6b4bbefcffe9642e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d7068704d7941646d696e26636f6c6f723d364337384146266c6f676f3d7068704d7941646d696e266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![Discord](https://camo.githubusercontent.com/596357d8b52257c282f713b78daa05587ee258c2822b1738be87afe6bcce92da/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d446973636f726426636f6c6f723d353836354632266c6f676f3d446973636f7264266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![slack](https://camo.githubusercontent.com/0006cf094da45ae096d194937b0a810ac30ceeb78db406430af198ff6c8891f7/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d536c61636b26636f6c6f723d344131353442266c6f676f3d536c61636b266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
@@ -48,11 +47,12 @@ Here are a few things I've picked up along my learning journey.
 
 ## Ali Hamza Github Stats
 <span> ![Ali's github stats](https://github-readme-stats.vercel.app/api?username=Iam-AliHamza&theme=tokyonight&show_icons=true&count_private=true) </span> </br>
-<span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-Ali&theme=tokyonight)</span>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-AliHamza&theme=tokyonight)
+
 
 
 ## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaib999/) ||
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-hamza-863330389/) ||
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhamza386@gmail.com) ||
 [![whatsApp](https://camo.githubusercontent.com/7bd751781e6f998e2fa3460d679bdddaa84d355b18418dca1dfa5ef317adc5dc/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d576861747341707026636f6c6f723d323232323232266c6f676f3d5768617473417070266c6f676f436f6c6f723d323544333636266c6162656c3d)]( https://wa.me/923059123496)
 
