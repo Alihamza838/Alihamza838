@@ -28,15 +28,15 @@ Here are a few things I've picked up along my learning journey.
 
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Discord](https://camo.githubusercontent.com/596357d8b52257c282f713b78daa05587ee258c2822b1738be87afe6bcce92da/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d446973636f726426636f6c6f723d353836354632266c6f676f3d446973636f7264266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![slack](https://camo.githubusercontent.com/0006cf094da45ae096d194937b0a810ac30ceeb78db406430af198ff6c8891f7/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d536c61636b26636f6c6f723d344131353442266c6f676f3d536c61636b266c6f676f436f6c6f723d464646464646266c6162656c3d)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white) 
-![]() ![]()
-![laragon](https://camo.githubusercontent.com/53b77a50cf35a9b20d0ce828bf9bdb6523c4922083721cd2059aeb68bacf5356/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c617261676f6e26636f6c6f723d304538334344266c6f676f3d4c617261676f6e266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![xammap](https://camo.githubusercontent.com/b4be70fe1a1b9a1d941d076883ad63277a7d3a0ed6be7dfa2db637fdd2914e5f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d584d505026636f6c6f723d303032423543266c6f676f3d584d5050266c6f676f436f6c6f723d464646464646266c6162656c3d)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
 
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
