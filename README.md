@@ -48,10 +48,21 @@ Here are a few things I've picked up along my learning journey.
 
 ## 📊 Ali Hamza GitHub Stats
 
+> 🚀 Passionate Developer | JavaScript • React • Node • Open Source
+
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iam-AliHamza&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-AliHamza&layout=compact&theme=tokyonight" height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Iam-AliHamza&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-AliHamza&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
+>
 
 
 
