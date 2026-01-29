@@ -47,8 +47,7 @@ Here are a few things I've picked up along my learning journey.
 
 
 ## 📊 Ali Hamza GitHub Stats
-
-> 🚀 Passionate Developer | JavaScript • React • Node • Open Source
+ 🚀 Passionate Developer | JavaScript • React • Node • Open Source
 
 <br/>
 
@@ -62,7 +61,7 @@ Here are a few things I've picked up along my learning journey.
     height="170"
   />
 </p>
->
+
 
 
 
